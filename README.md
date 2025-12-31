@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am Mohammed Ibrahim Ali 🫡
+  A 3rd year CSE student
