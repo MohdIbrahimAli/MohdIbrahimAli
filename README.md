@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### I am Mohammed Ibrahim Ali 🫡
-  A 3rd year CSE student
+  A Final year CSE student
+
