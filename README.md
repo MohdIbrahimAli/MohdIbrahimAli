@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ### I am Mohammed Ibrahim Ali 🫡
   A Final year CSE student
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MohdIbrahimAli&color=blue&style=round-square" alt="profile views">
+</p>
