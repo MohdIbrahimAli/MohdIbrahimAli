@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am Mohammed Ibrahim Ali 🫡
+ML Engineer and Backend Developer <br/>
   A Final year CSE student
 
 <p align="left">
