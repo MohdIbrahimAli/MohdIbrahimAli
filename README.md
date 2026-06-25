@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am Mohammed Ibrahim Ali 🫡
-ML Engineer and Backend Developer <br/>
-  A Final year CSE student
+Machine Learning Engineer and Backend Developer <br/>
+I build production-ready machine learning pipelines, scalable backend systems, and AI-powered applications.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MohdIbrahimAli&color=blue&style=round-square" alt="profile views">
-</p>
+Final-year Computer Science Engineering student with a strong focus on MLOps, FastAPI, PostgreSQL, and modern AI workflows.
